@@ -1,0 +1,378 @@
+{
+  "tracks": [
+    {
+      "id": 1,
+      "name": "Baby Pluto",
+      "time": "00:03:30",
+      "music_url": "DR_GROOVE_GANG_-_A_l_ancienne.mp3",
+      "is_master": false,
+      "is_explicit": false,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Gryffin, Carly Rea Jepsen"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "OMG",
+          "thumbnail_url": "https://resources.tidal.com/images/beefa965/780c/40f6/a52b/1011cfd234e4/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lo Mein",
+      "time": "00:03:15",
+      "music_url": "Samie_Bower_-_That_s_What_They_All_Say.mp3",
+      "is_master": false,
+      "is_explicit": false,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "John de Sohn, Sigrid Bernson"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "Happy Hours (feat. Sigrid Bernson)",
+          "thumbnail_url": "https://resources.tidal.com/images/a9c29fa6/2cb1/4aa3/9f0b/a0d9b794367b/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Silly Watch",
+      "time": "00:03:16",
+      "music_url": null,
+      "is_master": false,
+      "is_explicit": true,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Hailee Steinfeld Alesso, Florida Georgia Line, Watt"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "Let Me Go",
+          "thumbnail_url": "https://resources.tidal.com/images/87c183af/bc9e/4b34/ae6e/c707d378d754/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "POP",
+      "time": "00:03:47",
+      "music_url": null,
+      "is_master": false,
+      "is_explicit": false,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Clean Bandit"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "Solo (fea. Demi Lovato)",
+          "thumbnail_url": "https://resources.tidal.com/images/f98be2be/554f/41bb/8349/81d86b7182a5/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "You Better Move",
+      "time": "00:03:17",
+      "music_url": null,
+      "is_master": true,
+      "is_explicit": false,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Lil Uzi Vert"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "Eternal Atake",
+          "thumbnail_url": "https://resources.tidal.com/images/cd542e79/dce0/4809/9f3e/1c3cb2203436/320x320.jpg"
+        },
+        {
+          "id": 100,
+          "name": "Sway",
+          "thumbnail_url": "https://resources.tidal.com/images/664f7b0f/1ec8/4bfd/8282/b813d1c31874/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Homecoming",
+      "time": "00:03:34",
+      "music_url": null,
+      "is_master": false,
+      "is_explicit": true,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Marshmeool, Bastille"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "Happier",
+          "thumbnail_url": "https://resources.tidal.com/images/4d92ee66/1362/40ac/94fb/5731d44ed9be/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "I'm Sorry",
+      "time": "00:03:32",
+      "music_url": null,
+      "is_master": false,
+      "is_explicit": false,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Lil Uzi Vert"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 217,
+          "name": "The Livelong Day",
+          "thumbnail_url": "https://resources.tidal.com/images/070e25d4/b9a3/4d7e/ace3/d74be88a4b3c/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Celebration Station",
+      "time": "00:03:15",
+      "music_url": null,
+      "is_master": false,
+      "is_explicit": false,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Otto Knows"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "Million Voices (Radio Edit)",
+          "thumbnail_url": "https://resources.tidal.com/images/3659f000/8f7a/4f02/9a9c/0980c5727fec/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Bigger Than Life",
+      "time": "00:03:13",
+      "music_url": null,
+      "is_master": false,
+      "is_explicit": false,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Pierce Fulton"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "Kuaga (Lost Time) (Radio Edit)",
+          "thumbnail_url": "https://resources.tidal.com/images/b3c85628/a687/43b4/86c7/c6266830b2d7/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Chrome Heart Tags",
+      "time": "00:03:33",
+      "music_url": null,
+      "is_master": true,
+      "is_explicit": false,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Pierce Fulton, JHart"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "Landmines",
+          "thumbnail_url": "https://resources.tidal.com/images/6679d8b5/2e30/4783/8672/c0cc956e8560/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Bust Me",
+      "time": "00:03:14",
+      "music_url": null,
+      "is_master": false,
+      "is_explicit": false,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Lil Uzi Vert"
+        },
+        {
+          "id": 34,
+          "name": "Broken Bells"
+        },
+        {
+          "id": 39,
+          "name": "Radiation City"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "Eternal Atake",
+          "thumbnail_url": "https://resources.tidal.com/images/cd542e79/dce0/4809/9f3e/1c3cb2203436/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Prices",
+      "time": "00:03:53",
+      "music_url": null,
+      "is_master": false,
+      "is_explicit": true,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Lil Uzi Vert"
+        },
+        {
+          "id": 51,
+          "name": "Gemma Ray"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "Eternal Atake",
+          "thumbnail_url": "https://resources.tidal.com/images/cd542e79/dce0/4809/9f3e/1c3cb2203436/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Urgency (feat. Syd)",
+      "time": "00:03:01",
+      "music_url": null,
+      "is_master": false,
+      "is_explicit": false,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "MK"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "17",
+          "thumbnail_url": "https://resources.tidal.com/images/c6a6e773/bfa3/4ce2/9f64/e924523b2e2b/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Venetia",
+      "time": "00:03:09",
+      "music_url": null,
+      "is_master": false,
+      "is_explicit": false,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Jax Jones, Mike Dunn MNEK"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "House Work",
+          "thumbnail_url": "https://resources.tidal.com/images/3659f000/8f7a/4f02/9a9c/0980c5727fec/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Secure The Bag",
+      "time": "00:03:58",
+      "music_url": null,
+      "is_master": false,
+      "is_explicit": false,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Lil Uzi Vert"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "Eternal Atake",
+          "thumbnail_url": "https://resources.tidal.com/images/cd542e79/dce0/4809/9f3e/1c3cb2203436/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "P2",
+      "time": "00:03:55",
+      "music_url": null,
+      "is_master": false,
+      "is_explicit": false,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Lil Uzi Vert"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "Eternal Atake",
+          "thumbnail_url": "https://resources.tidal.com/images/cd542e79/dce0/4809/9f3e/1c3cb2203436/320x320.jpg"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Futsal Shuffle 2020 (Bonus Track)",
+      "time": "00:03:19",
+      "music_url": null,
+      "is_master": false,
+      "is_explicit": false,
+      "artist_info": [
+        {
+          "id": 84,
+          "name": "Calvin Harris, Dua Lipa"
+        }
+      ],
+      "album_info": [
+        {
+          "id": 1,
+          "name": "One Kiss",
+          "thumbnail_url": "https://resources.tidal.com/images/5d3cf929/c28d/4a2f/ae6f/503158fa8a69/320x320.jpg"
+        }
+      ]
+    }
+  ]
+}
