@@ -3,7 +3,7 @@ import React from 'react'
 const practice = () => {
     return (
         <div>
-            hello world!
+            bye
         </div>
     )
 }
